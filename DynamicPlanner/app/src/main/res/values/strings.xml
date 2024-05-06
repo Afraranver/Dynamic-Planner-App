@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Dynamic Planner</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="option">Options</string>
+    <string name="notepad">Notepad</string>
+    <string name="calendar">Calendar</string>
+    <string name="taskmanager">Task manager</string>
+    <string name="scenegenerator">Scene Generator</string>
+    <string name="voicelist">Voice Command List</string>
+    <string name="add_item">Add Item</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="deletenote">Delete Note</string>
+    <string name="areyousure">Are you sure you want to delete this note?</string>
+    <string name="failed">Failed</string>
+    <string name="success">Success</string>
+    <string name="resetpassword">Reset Password</string>
+    <string name="forgotpassword">Forgot Password</string>
+    <string name="deletedsuccess">Deleted Successfully</string>
+
+    <string name="currentDateString">Current Date</string>
+    <string name="sunString">SUN</string>
+    <string name="monString">MON</string>
+    <string name="tueString">TUE</string>
+    <string name="wedString">WED</string>
+    <string name="thuString">THU</string>
+    <string name="friString">FRI</string>
+    <string name="satString">SAT</string>
+    <string name="todo">TODO</string>
+    <string name="scene_generator_picker">Scene \nGenerator Picker</string>
+    <string name="add_a_task">Add a task</string>
+    <string name="pick_a_task">Pick a task!</string>
+    <string name="your_next_task_is">Your Next Task is ...</string>
+    <string name="scene_generator">Scene Generator</string>
+    <string name="tap_to_speak">Tap to Speak</string>
+</resources>
